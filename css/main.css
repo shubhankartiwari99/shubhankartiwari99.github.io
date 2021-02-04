@@ -153,10 +153,12 @@ a:after {
 
 .desc {
   padding-top: 50px;
+  
 }
 
 .desc p {
   color: #2f2f2f;
+  background: url(../images/bgd11.jpg) no-repeat center top;
 }
 
 .desc t {
