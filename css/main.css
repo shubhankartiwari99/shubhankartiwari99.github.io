@@ -70,7 +70,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(../images/bgd2.jpg) no-repeat center top;
+  background: url(../images/header-bg-5.jpg) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -107,7 +107,7 @@ a:after {
 /* About Wrap */
 .about {
   background: #2c3e50;
-  background: url(../images/header-bg-3.jpg) no-repeat center top;
+  background: url(../images/bgd3.jpg) no-repeat center top;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -126,7 +126,7 @@ a:after {
 
 .footer {
   background: #2f2f2f;
-  background: url(../images/foot2.jpg) no-repeat center top;
+  background: url(../images/foot9.jpg) no-repeat center top;
   padding-top: 50px;
   padding-bottom: 50px;
 }
